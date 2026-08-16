@@ -10,15 +10,6 @@ For the shortest setup path after cloning, see [QUICKSTART.md](QUICKSTART.md).
 
 [![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo-3GPP%20Standards%20Assistant-blue?style=for-the-badge)](YOUR_GOOGLE_DRIVE_VIDEO_LINK)
 
-A short walkthrough showing:
-
-- 3GPP standards question answering
-- Hybrid retrieval using Qdrant + BM25
-- Evidence retrieval and reranking
-- Grounded answers with [S1] citations
-- Source specification and page references
-- Safe abstention for unsupported questions
-
 ## Why this project was built
 
 3GPP specifications are large, technical, and distributed across many documents. Finding a precise answer manually can take significant time, while generic AI chatbots can produce fluent answers that are difficult to verify.
