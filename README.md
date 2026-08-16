@@ -8,7 +8,7 @@ For the shortest setup path after cloning, see [QUICKSTART.md](QUICKSTART.md).
 
 ## 🎥 Demo
 
-[![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo-3GPP%20Standards%20Assistant-blue?style=for-the-badge)](YOUR_GOOGLE_DRIVE_VIDEO_LINK)
+[![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo-3GPP%20Standards%20Assistant-blue?style=for-the-badge)](https://drive.google.com/file/d/1h3rXcIjzexQJVlEdjCIoofosAleIHXS9/view?usp=sharing)
 
 ## Why this project was built
 
